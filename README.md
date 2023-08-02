@@ -20,12 +20,13 @@ RSGuy - Main Programmer/Artist/Composer
 
 ## Todo List & Finished Todos
 
-- [X] Main Menu
-- [ ] Practice
-- [ ] Options
-- [ ] The First Lineup
-- [ ] Achivements
-- [ ] Joystick/Controller Support
+- [X] Main Menu (Medium Priority)
+- [ ] Practice (Low Priority)
+- [ ] Options (High Priority)
+- [ ] The First Lineup (Highest Priority)
+- [ ] Achivements (Low Priority)
+- [ ] Joystick/Controller Support (Medium Priority)
+- [ ] Wiimote Support (Barely High Priority)
 
 ## Controls
 ### Keyboard
@@ -37,11 +38,19 @@ Z - Button 1/Select
 X - Button 2/Back
 
 ### Controller - SUPPORT COMING SOON
-#### This is targeted toward XBOX controllers
+#### XBOX controllers | Not Switch/PS4
 
 Joystick & D-Pad - Ui Movement
 
 Y - Button 1/Select
+
+B - Button 2/Back
+
+#### Wiimote
+
+D-Pad - Ui Movement
+
+A - Button 1/Select
 
 B - Button 2/Back
 
